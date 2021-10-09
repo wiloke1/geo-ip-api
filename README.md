@@ -97,3 +97,5 @@ On successful query, you will get a response in the form of a JSON Object.
 ## Tests
 
 Todo
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
